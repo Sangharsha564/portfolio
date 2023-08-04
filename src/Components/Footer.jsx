@@ -7,8 +7,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 
 const StyledFooter = styled.footer`
-  background-color: #F1F0F0;
-  color: #015761;
+  background-color: #015761;
+  color: #F7DC4F;
   padding: 20px 0;
 `;
 
