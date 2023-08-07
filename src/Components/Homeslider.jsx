@@ -73,7 +73,7 @@ const Homeslider = () => {
                   <br />
                   Sangharsha <br /> Thapa
                 </Textcolor>
-                <Pcolor>MERN Stack Developer / Fresser </Pcolor>
+                <Pcolor>MERN Stack Developer / Fresher </Pcolor>
               </Texts>
             </Stack>
           </StyledLeftCol>
