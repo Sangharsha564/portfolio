@@ -24,7 +24,7 @@ const ServicePage = () => {
       <Row>
         <Col md={4}>
           <StyledCard>
-            <CardImage variant="top" src="./Photos/web.jpg" />
+            <CardImage variant="top" src="./Photos/webdesign.jpeg" />
             <Card.Body>
               <Card.Title>Web Design</Card.Title>
               <Card.Text>
@@ -35,7 +35,7 @@ const ServicePage = () => {
         </Col>
         <Col md={4}>
           <StyledCard>
-            <CardImage variant="top" src="./Photos/html.jpg" />
+            <CardImage variant="top" src="./Photos/react.png" />
             <Card.Body>
               <Card.Title>Frontend Developer</Card.Title>
               <Card.Text>
@@ -46,7 +46,7 @@ const ServicePage = () => {
         </Col>
         <Col md={4}>
           <StyledCard>
-            <CardImage variant="top" src="./Photos/node.jpg" />
+            <CardImage variant="top" src="./Photos/nodejs.jpg" />
             <Card.Body>
               <Card.Title>Backend Developer</Card.Title>
               <Card.Text>
