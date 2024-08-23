@@ -49,19 +49,14 @@ const Footer = () => {
                 <FontAwesomeIcon icon={faUser} />
               </ProfileIcon>
               <FooterLogo>Sangharsha Thapa</FooterLogo>
-              <p>
-                Freelance Web Developer and Designer
-              </p>
             </FooterContent>
           </Col>
           <Col xs={12} md={4}>
             <FooterContent>
-              <h4>Skills</h4>
+              <h4>Note</h4>
               <SkillList>
-                <SkillItem>HTML/CSS</SkillItem>
-                <SkillItem>Bootstrap/Javascript</SkillItem>
-                <SkillItem>React/Node.js</SkillItem>
-                <SkillItem>Express.js/MongoDB</SkillItem>
+                <SkillItem>Security is a journey, not a destination</SkillItem>
+                <SkillItem> Keep moving forward and stay one step ahead</SkillItem>
               </SkillList>
             </FooterContent>
           </Col>
