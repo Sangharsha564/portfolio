@@ -5,16 +5,16 @@ import Row from "react-bootstrap/esm/Row";
 import Container from "react-bootstrap/esm/Container";
 
 const skillsData = [
-  { name: "HTML", level: 95 },
-  { name: "CSS", level: 90 },
-  { name: "Bootstrap", level: 90 },
-  { name: "JavaScript", level: 80 },
+  { name: "Vulnerability Assessment", level: 95 },
+  { name: "Penetration Testing", level: 90 },
+  { name: "Network Security", level: 90 },
+  { name: "Exploitation Techniques", level: 80 },
 ];
 const OtherskillsData = [
-    { name: "React", level: 90 },
-    { name: "Node.js", level: 80 },
-    { name: "Express.js", level: 75 },
-    { name: "MongoDB", level: 85 },
+    { name: "Security Assessments", level: 90 },
+    { name: "Python Scripting", level: 80 },
+    { name: "Python Automation", level: 75 },
+    { name: "Frontend Development", level: 85 },
   ];
  
   const FirstContainer=styled(Container)`
