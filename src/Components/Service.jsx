@@ -24,33 +24,33 @@ const ServicePage = () => {
       <Row>
         <Col md={4}>
           <StyledCard>
-            <CardImage variant="top" src="./Photos/webdesign.jpeg" />
+            <CardImage variant="top" src="./Photos/vuln.jpg" />
             <Card.Body>
-              <Card.Title>Web Design</Card.Title>
+              <Card.Title>Vulnerability Assessment & Penetration Testing</Card.Title>
               <Card.Text>
-              As a web designer, I specialize in creating visually appealing and user-friendly websites. Using cutting-edge design principles, color schemes, and layout techniques, I craft captivating user experiences that align with your brand and vision.
+             With expertise in vulnerability assessment and penetration testing, I help organizations identify and mitigate security risks. Using advanced tools and techniques, I conduct thorough assessments to uncover potential vulnerabilities in networks, systems, and applications, ensuring robust defense against cyber threats.
               </Card.Text>
             </Card.Body>
           </StyledCard>
         </Col>
         <Col md={4}>
           <StyledCard>
-            <CardImage variant="top" src="./Photos/react.png" />
+            <CardImage variant="top" src="./Photos/network.png" />
             <Card.Body>
-              <Card.Title>Frontend Developer</Card.Title>
+              <Card.Title>Network Security & Exploitation Techniques</Card.Title>
               <Card.Text>
-              As a frontend developer, I transform web designs into fully functional and responsive user interfaces. My expertise in HTML, CSS, and JavaScript ensures seamless interactions and optimized user experiences across various devices and platforms.
+              I specialize in network security, offering services that include the design and implementation of secure network architectures. Additionally, I apply exploitation techniques and conduct comprehensive security assessments to evaluate and strengthen the resilience of IT infrastructures against attacks.
               </Card.Text>
             </Card.Body>
           </StyledCard>
         </Col>
         <Col md={4}>
           <StyledCard>
-            <CardImage variant="top" src="./Photos/nodejs.jpg" />
+            <CardImage variant="top" src="./Photos/python.png" />
             <Card.Body>
-              <Card.Title>Backend Developer</Card.Title>
+              <Card.Title>Python Scripting & Frontend Development</Card.Title>
               <Card.Text>
-              As a backend developer, I focus on building robust server-side infrastructure, databases, and APIs. With proficiency in programming languages like javascript,Express.js, or Node.js, I ensure secure and scalable web applications that handle data processing and user authentication seamlessly.
+              Leveraging my skills in Python scripting and automation, I streamline processes, enhance security measures, and improve efficiency in various tasks. I also provide frontend development services, using HTML, CSS, and JavaScript to create responsive and user-friendly web designs that meet modern standards.
               </Card.Text>
             </Card.Body>
           </StyledCard>
