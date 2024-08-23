@@ -74,8 +74,8 @@ const Resume = () => {
         <PdfFile>
 
         <PdfLink
-        href="/SangharshaCV.pdf" 
-        download="SangharshaCV.pdf" 
+        href="/SangharshaResume.pdf" 
+        download="SangharshaResume.pdf" 
       >
         Download PDF
       </PdfLink>
@@ -92,16 +92,14 @@ const Resume = () => {
 
                 <Heading>
 
-                    <HTwoItem>MERN STACK DEVELOPER
+                    <HTwoItem>Security Analyst
                     </HTwoItem>
                 </Heading>
                 <InfoItem>
                     <SubHeading>
                     Sangharsha Thapa
                     </SubHeading>
-                    <HSix>motivated web developer with MERN stack expertise. Passionate about userfriendly interfaces and scalable applications. Active open-source contributor
-                    with strong problem-solving skills. Committed to continuous learning for
-                    innovative solutions</HSix>
+                    <HSix>Passionate about cybersecurity, I am dedicated to enhancing digital safety and addressing security challenges. Committed to continuous learning, I stay ahead of emerging threats through ongoing education and hands-on training. Eager to contribute my skills, I strive to create secure digital environments and collaborate with like-minded professionals.</HSix>
                 </InfoItem>
 
                 <Heading>
@@ -157,56 +155,52 @@ const Resume = () => {
 </Heading>
 <InfoItem>
 <SubHeading>
-Web Design
+Certified Ethical Hacker (CEH)-- Broadway Infosys
 </SubHeading>
-<HSix>Broadways Infosys / 2018</HSix>
+<HSix>Learned how to identify and exploit vulnerabilities using in various systems
+and networks.</br>
+Gained hands-on experience in penetration testing and ethical hacking
+techniques using tools such as Metasploit, Nmap, and Burp Suite</HSix>
+</InfoItem>
+                <Heading>
+</Heading>
+<InfoItem>
+<SubHeading>
+Cisco Certified Network Associate (CCNA) Routing and Switching - Broadway Infosys
+</SubHeading>
+<HSix>Acquired in-depth knowledge of networking fundamentals, including IP
+addressing, subnetting, and routing protocols.</br>
+Developed skills in configuring and troubleshooting routers and switches</HSix>
+</InfoItem>
+                <Heading>
+</Heading>
+<InfoItem>
+<SubHeading>
+Python Training - Broadway Infosys 
+</SubHeading>
+<HSix>learned Python fundamentals and scripting for automation. </HSix>
 </InfoItem>
                 <Heading>
 
-                        <HTwoItem>Project</HTwoItem>
-                        </Heading>
-                        <InfoItem>
-                        <SubHeading>
-                        BikePartsNepal
-                        </SubHeading>
-                        <HSix>E-commerce website developed using MERN Stack for my 7th Semester
-                            Project</HSix>
-                        <SubHeading>
-                        Restaurant
-                        </SubHeading>
-                        <HSix>Frontend project developed during web design Training</HSix>
-                        </InfoItem>
-                        <Heading>
+                       
 
                     <HTwoItem>Skills</HTwoItem>
                 </Heading>
                 <InfoItem>
                     <ul>
-                        <LiItem><HSix>Front End Web Development(HTML5, CSS JS REACT ) -Skillful</HSix>
+                        <LiItem><HSix>Vulnerability Assessment and Penetration Testing</HSix>
                         </LiItem>
-                        <LiItem><HSix>Backend development on
-                        Express and Node js - Skillful</HSix> </LiItem>
-                        <LiItem><HSix>GIT / Version Control - Skillfu</HSix> </LiItem>
-                        <LiItem><HSix>Database and API Interaction -
-                        Skillful</HSix> </LiItem>
-                        <LiItem><HSix>Javascript Programming
-                        language - Skillful</HSix> 
+                        <LiItem><HSix>Network Security</HSix> </LiItem>
+                        <LiItem><HSix>GIT / Version Control </HSix> </LiItem>
+                        <LiItem><HSix>Exploitation Techniques and Security Assessments </HSix> </LiItem>
+                        <LiItem><HSix>Python Scripting and Automation </HSix> 
                         </LiItem>
-                        <LiItem><HSix>programming language
-                        (python,java,c+) - Beginner</HSix> 
+                        <LiItem><HSix> HTML, CSS, JavaScript, and Responsive Design
+</HSix> 
                         </LiItem>
                     </ul>
                 </InfoItem>
 
-                <Heading>
-
-                    <HTwoItem>Experience</HTwoItem>
-                </Heading>
-                <InfoItem>
-                    <SubHeading>
-                    Fresher
-                    </SubHeading>
-                </InfoItem>
 
                 <Heading>
 
