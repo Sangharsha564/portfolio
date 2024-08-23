@@ -45,6 +45,11 @@ const SocialMediaIcons = () => {
             <FontAwesomeIcon icon={faTwitter} size="lg" />
           </a>
         </IconWrapper>
+        <IconWrapper>
+          <a href="https://www.linkedin.com/in/sangharshathapa/" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faLinkedin} size="lg" />
+          </a>
+        </IconWrapper>
       </IconContainer>
     </StyledContainer>
   );
